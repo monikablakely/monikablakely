@@ -15,10 +15,10 @@
 ## Technical Skills
 
 ### Programming & Web Development
-Python • Java • PHP • SQL • HTML/CSS • API Integration  
+- Python • Java • PHP • SQL • HTML/CSS • API Integration  
 ### Operating Systems & Virtualization
-Linux (Kali, Ubuntu) • Windows • macOS • VirtualBox • VMware  
+- Linux (Kali, Ubuntu) • Windows • macOS • VirtualBox • VMware  
 ### Applications & Tools
-Active Directory • Packet Tracer • Wireshark • FTK Imager • Nmap • Microsoft Office  
+- Active Directory • Packet Tracer • Wireshark • FTK Imager • Nmap • Microsoft Office  
 ### Cloud Platforms
-AWS (EC2, security group configuration, basic instance management)
+- AWS (EC2, security group configuration, basic instance management)
