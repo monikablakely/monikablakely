@@ -7,8 +7,8 @@
 
 - 🎓 I have a **M.S. in Management** and a **B.S. in Information Technology**
 - 🔐 I hold the **CompTIA Security+** certification and the **IT Specialist: Python** certification
-- 💻 My technical experience includes **networking fundamentals, information security concepts, operating systems administration, scripting, and virtualization**
-- 🤝🏽 Interested in connecting on projects and exploring full-time opportunities.
+- 💻 My technical experience includes **networking, security concepts, systems administration, scripting, and virtualization**
+- 🤝🏽 Interested in connecting on projects and exploring full-time opportunities
 
 ---
 
