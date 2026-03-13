@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Monika Blakely 👋🏽
+**IT | Cybersecurity | Management**
 
-<!--
-**monikablakely/monikablakely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+🎓 I have a **M.S. in Management** and a **B.S. in Information Technology**
+🔐 I hold the **CompTIA Security+** certification and the **IT Specialist: Python** certification
+💻 My technical experience includes **networking fundamentals, information security concepts, operating systems administration, scripting, and virtualization**
+🤝🏽 Interested in connecting on projects and exploring full-time opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+### Programming & Web Development
+Python • Java • PHP • SQL • HTML/CSS • API Integration  
+### Operating Systems & Virtualization
+Linux (Kali, Ubuntu) • Windows • macOS • VirtualBox • VMware  
+### Applications & Tools
+Active Directory • Packet Tracer • Wireshark • FTK Imager • Nmap • Microsoft Office  
+### Cloud Platforms
+AWS (EC2, security group configuration, basic instance management)
